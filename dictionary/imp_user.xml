@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="User" max_length="40" name="imp_user" sizeclass="246" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Additional Name" max_length="40" name="u_additional_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional Name Yomi" max_length="40" name="u_additional_name_yomi" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Billing Information" max_length="40" name="u_billing_information" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Birthday" max_length="40" name="u_birthday" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Directory Server" max_length="40" name="u_directory_server" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E-mail 1 - Type" max_length="40" name="u_e_mail_1___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E-mail 1 - Value" max_length="40" name="u_e_mail_1___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E-mail 2 - Type" max_length="40" name="u_e_mail_2___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E-mail 2 - Value" max_length="40" name="u_e_mail_2___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E-mail 3 - Type" max_length="40" name="u_e_mail_3___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E-mail 3 - Value" max_length="40" name="u_e_mail_3___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Family Name" max_length="40" name="u_family_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Family Name Yomi" max_length="40" name="u_family_name_yomi" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gender" max_length="40" name="u_gender" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Given Name" max_length="40" name="u_given_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Given Name Yomi" max_length="40" name="u_given_name_yomi" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Group Membership" max_length="40" name="u_group_membership" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hobby" max_length="40" name="u_hobby" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Initials" max_length="40" name="u_initials" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Language" max_length="40" name="u_language" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Maiden Name" max_length="40" name="u_maiden_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mileage" max_length="40" name="u_mileage" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name Prefix" max_length="40" name="u_name_prefix" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name Suffix" max_length="40" name="u_name_suffix" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nickname" max_length="40" name="u_nickname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="40" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Occupation" max_length="40" name="u_occupation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization 1 - Department" max_length="40" name="u_organization_1___department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization 1 - Location" max_length="40" name="u_organization_1___location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization 1 - Name" max_length="40" name="u_organization_1___name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization 1 - Symbol" max_length="40" name="u_organization_1___symbol" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization 1 - Title" max_length="40" name="u_organization_1___title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization 1 - Type" max_length="40" name="u_organization_1___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization 1 - Yomi Name" max_length="40" name="u_organization_1___yomi_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization 1 - Job Description" max_length="40" name="u_organization_ob_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 1 - Type" max_length="40" name="u_phone_1___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 1 - Value" max_length="40" name="u_phone_1___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 2 - Type" max_length="40" name="u_phone_2___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 2 - Value" max_length="40" name="u_phone_2___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 3 - Type" max_length="40" name="u_phone_3___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 3 - Value" max_length="40" name="u_phone_3___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 4 - Type" max_length="40" name="u_phone_4___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 4 - Value" max_length="40" name="u_phone_4___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 5 - Type" max_length="40" name="u_phone_5___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone 5 - Value" max_length="40" name="u_phone_5___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Photo" max_length="40" name="u_photo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sensitivity" max_length="40" name="u_sensitivity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Name" max_length="40" name="u_short_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Subject" max_length="40" name="u_subject" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Website 1 - Type" max_length="40" name="u_website_1___type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Website 1 - Value" max_length="40" name="u_website_1___value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Yomi Name" max_length="40" name="u_yomi_name" type="string"/>
+    </element>
+</database>

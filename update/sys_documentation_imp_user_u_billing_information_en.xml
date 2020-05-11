@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_billing_information" label="Billing Information" language="en" table="imp_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_billing_information</element>
+            <help/>
+            <hint/>
+            <label>Billing Information</label>
+            <language>en</language>
+            <name>imp_user</name>
+            <plural>Billing Informations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-08 15:51:05</sys_created_on>
+            <sys_id>4007425bdb6010102e4ea9954b96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Billing Information</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_imp_user_u_billing_information_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-08 15:51:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
